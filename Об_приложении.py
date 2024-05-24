@@ -20,6 +20,9 @@ st.markdown("""
                 h1{
                     color: rgb(49, 51, 63);
                 }
+                h3{
+                    color: rgb(49, 51, 63);
+                }
                 /*Текст*/
                 [data-testid="stMarkdown"] {
                     color: rgb(49, 51, 63);
@@ -39,7 +42,7 @@ st.markdown("""
                 [data-testid="stSidebarNavLink"] {
                     background: rgb(0,80,78);
                 }
-                [class="st-emotion-cache-1m6wrpk eczjsme10"] {
+                [class="st-emotion-cache-1m6wrpk eczjsme10"], [class="st-emotion-cache-17lntkn eczjsme10"] {
                     color: rgb(240,73,35) !important;
                 }
                 [data-testid="stSidebarNavLink"].st-emotion-cache-18l0hbk:hover {
