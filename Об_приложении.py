@@ -38,6 +38,7 @@ st.markdown("""
                 /*цвет кнопки после зажатия*/
                 [data-testid="stSidebarNavLink"] {
                     background: rgb(0,80,78);
+                    color: rgb(240,73,35);
                 }
                 [class="st-emotion-cache-1m6wrpk eczjsme5"] {
                     color: rgb(240,73,35);
