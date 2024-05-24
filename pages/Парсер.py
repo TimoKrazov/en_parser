@@ -180,7 +180,7 @@ st.markdown("""
                 [data-testid="stFileUploaderFileName"] {
                     color: rgb(49, 51, 63);
                 }
-                .st-bn {
+                .st-bn, .st-g4 {
                     background: rgb(153,153,153);
                     color: rgb(0,80,78);
                 }
