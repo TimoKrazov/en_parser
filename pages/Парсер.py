@@ -8,7 +8,6 @@ st.set_page_config(
 
 st.markdown("""
             <style>
-                <style>
                 body {
                     background-color: rgb(0,80,78);
                 }
@@ -19,7 +18,7 @@ st.markdown("""
                 [data-testid="stHeader"]{
                     background: rgb(128,128,128);
                 }
-                [data-testid="StyledLinkIconContainer"]{
+                h1{
                     color: rgb(49, 51, 63);
                 }
                 /*Текст*/
@@ -41,8 +40,8 @@ st.markdown("""
                 [data-testid="stSidebarNavLink"] {
                     background: rgb(0,80,78);
                 }
-                [class="st-emotion-cache-1m6wrpk eczjsme5"] {
-                    color: rgb(240,73,35);
+                [class="st-emotion-cache-1m6wrpk eczjsme10"] {
+                    color: rgb(240,73,35) !important;
                 }
                 [data-testid="stSidebarNavLink"].st-emotion-cache-18l0hbk:hover {
                     background: rgb(179, 179, 179);
@@ -54,16 +53,10 @@ st.markdown("""
                 [data-testid="stSidebarNavLink"].st-emotion-cache-nziaof:hover{
                     background: rgb(240, 73, 35);
                 }
-                [class="st-emotion-cache-1m6wrpk eczjsme5"] {
-                    color: rgb(240,73,35);
-                }
-                .eczjsme5{
+                .eczjsme10{
                     color:rgb(255, 255, 255);
                 }
                 [class="st-emotion-cache-17lntkn eczjsme5"]{
-                    color: rgb(240,73,35);
-                }
-                [class="st-emotion-cache-1m6wrpk eczjsme5"]{
                     color: rgb(240,73,35);
                 }
                 [data-testid="stSidebarNavLink"].st-emotion-cache-1we6k59:hover {
@@ -84,7 +77,7 @@ st.markdown("""
                     font-size: 20px;
                 }
                 ul {
-                    font-size: 20px;
+                    font-size: 20px !important;
                 }
                 [data-testid="stWidgetLabel"] p {
                     color: rgb(49,51,63);
