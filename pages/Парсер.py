@@ -21,6 +21,9 @@ st.markdown("""
                 h1{
                     color: rgb(49, 51, 63);
                 }
+                h3{
+                    color: rgb(49, 51, 63);
+                }
                 /*Текст*/
                 [data-testid="stMarkdown"] {
                     color: rgb(49, 51, 63);
