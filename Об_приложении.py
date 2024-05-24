@@ -17,7 +17,7 @@ st.markdown("""
                 [data-testid="stHeader"]{
                     background: rgb(128,128,128);
                 }
-                [data-testid="stHeadingWithActionElements"]{
+                h1{
                     color: rgb(49, 51, 63);
                 }
                 /*Текст*/
