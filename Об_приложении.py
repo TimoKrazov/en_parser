@@ -39,7 +39,7 @@ st.markdown("""
                 [data-testid="stSidebarNavLink"] {
                     background: rgb(0,80,78);
                 }
-                [class="eczjsme10"] {
+                [class="st-emotion-cache-1m6wrpk eczjsme5"] {
                     color: rgb(240,73,35);
                 }
                 [data-testid="stSidebarNavLink"].st-emotion-cache-18l0hbk:hover {
