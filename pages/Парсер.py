@@ -181,8 +181,8 @@ st.markdown("""
                     color: rgb(49, 51, 63);
                 }
                 .st-bn {
-                    background: rgb(0,80,78);
-                    color: rgb(240, 73, 35);
+                    background: rgb(153,153,153);
+                    color: rgb(0,80,78);
                 }
             </style>
             """, unsafe_allow_html=True)
