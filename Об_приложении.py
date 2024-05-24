@@ -39,7 +39,7 @@ st.markdown("""
                 [data-testid="stSidebarNavLink"] {
                     background: rgb(0,80,78);
                 }
-                [class="st-emotion-cache-1m6wrpk eczjsme5"] {
+                [class="st-emotion-cache-1m6wrpk eczjsme10"] {
                     color: rgb(240,73,35);
                 }
                 [data-testid="stSidebarNavLink"].st-emotion-cache-18l0hbk:hover {
@@ -52,16 +52,10 @@ st.markdown("""
                 [data-testid="stSidebarNavLink"].st-emotion-cache-nziaof:hover{
                     background: rgb(240, 73, 35);
                 }
-                [class="st-emotion-cache-1m6wrpk eczjsme5"] {
-                    color: rgb(240,73,35);
-                }
-                .eczjsme5{
+                .eczjsme10{
                     color:rgb(255, 255, 255);
                 }
                 [class="st-emotion-cache-17lntkn eczjsme5"]{
-                    color: rgb(240,73,35);
-                }
-                [class="st-emotion-cache-1m6wrpk eczjsme5"]{
                     color: rgb(240,73,35);
                 }
                 [data-testid="stSidebarNavLink"].st-emotion-cache-1we6k59:hover {
