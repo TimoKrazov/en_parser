@@ -40,7 +40,7 @@ st.markdown("""
                     background: rgb(0,80,78);
                     color: rgb(240,73,35) !important;
                 }
-                [class="st-emotion-cache-1m6wrpk eczjsme5"] {
+                [class="st-emotion-cache-1m6wrpk"] {
                     color: rgb(240,73,35);
                 }
                 [data-testid="stSidebarNavLink"].st-emotion-cache-18l0hbk:hover {
